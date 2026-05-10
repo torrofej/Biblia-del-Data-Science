@@ -9,6 +9,8 @@ Vamos a continuar un proyecto que ya está en marcha. Se trata de construir una 
 ## Estado actual del proyecto
 - Ya existen dos archivos de código Markdown generados: **`Preprocesamiento_ML.md`** y **`Analitica_Avanzada_y_Modelado_de_Datos.md`** — úsalos como referencia de estilo y estructura para el nuevo contenido
 
+- Además, de las 6 sesiones existentes para este tema ya hemos descartado la primera y convertido a .md las 3 siguientes, por lo que vamos por la Sesión número 5(documento "Diapositivas Tema 16 Sesión 5.pdf"). Recuerda continuar la numeración de índices a partir del último apartado generado (En este caso es el de "Clasificacion_II_ML_3.md")
+
 ## Flujo de trabajo
 1. Te pasaré un PDF referente a un subtema
 2. Extraes el contenido de forma resumida, priorizando lo técnico y útil sobre lo teórico
