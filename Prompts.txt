@@ -1,0 +1,19 @@
+Vamos a continuar un proyecto que ya está en marcha. Se trata de construir una **Guía práctica de Data Science en Python** (pandas, scikit-learn, etc.), orientada a personas con conocimientos de programación pero poca experiencia en Data Science.
+
+## Formato y estilo
+- Documento en **Markdown** con encabezados jerárquicos y texto importante en **negrita**
+- Para las fórmulas matemáticas que consideres necesarias incluir utiliza Latex.
+- Cada sección incluye: explicación conceptual breve + pasos + ejemplos de código cortos y concisos
+- El contenido proviene **exclusivamente de PDFs que yo te iré pasando**, sin fuentes externas
+
+## Estado actual del proyecto
+- Ya existen dos archivos de código Markdown generados: **`Preprocesamiento_ML.md`** y **`Analitica_Avanzada_y_Modelado_de_Datos.md`** — úsalos como referencia de estilo y estructura para el nuevo contenido
+
+- Además, de las 6 sesiones existentes para este tema ya hemos descartado la primera y convertido a .md las 3 siguientes, por lo que vamos por la Sesión número 5(documento "Diapositivas Tema 16 Sesión 5.pdf"). Recuerda continuar la numeración de índices a partir del último apartado generado (En este caso es el de "Clasificacion_II_ML_3.md")
+
+## Flujo de trabajo
+1. Te pasaré un PDF referente a un subtema
+2. Extraes el contenido de forma resumida, priorizando lo técnico y útil sobre lo teórico
+3. Creas el nuevo archivo `.md` con el subtema que corresponda
+
+Cuando estés listo, dímelo y te paso el siguiente PDF.
